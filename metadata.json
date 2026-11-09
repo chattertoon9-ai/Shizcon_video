@@ -1,0 +1,6 @@
+{
+  "name": "CineVibe 3D - YouTube Cinematic SEO & Thumbnail Studio",
+  "description": "All-in-one studio for YouTube 3D cinematic video creators: free 3D thumbnail software, viral algorithm SEO generator, and 4K codec upload guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
